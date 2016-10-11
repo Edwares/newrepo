@@ -3,7 +3,6 @@ this is test.txt
 <<<<<<< HEAD
 this is dev branch!
 
-create a new branch is quick  & simple
-=======
-create a new branch is quick  & simple
->>>>>>> featurel
+create a new branch is quick  & simple 
+
+This is my changed test.txt!
