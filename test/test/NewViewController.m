@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.title = @"哈哈";
-    NSLog(@"This is title");
+    NSLog(@"This is title two");
     self.view.backgroundColor = [UIColor redColor];
     [self.navigationController.navigationBar setBackgroundImage:[UIImage new] forBarMetrics:UIBarMetricsDefault];
     
